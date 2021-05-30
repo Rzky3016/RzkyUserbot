@@ -102,7 +102,7 @@ async def koc(e):
         await e.edit("`IMUUUTTTTT LUCUUU`")
         await e.edit("`WALAAUUUU TAK TERLALU TINGGI`")
         await e.edit("`GW GABUUTTTT`")
-        await e.edit("`EMMMM BACOTNYA`")
+        await e.edit("`IKY GANSS`")
         await e.edit("`GABUTTTT WOI GABUT`")
         await e.edit("🙈🙈🙈🙈")
         await e.edit("🙉🙉🙉🙉")
@@ -432,6 +432,11 @@ async def typewriter(typew):
     await typew.edit("`I LOVEE YOUUUU💘💓`")
     sleep(1)
     await typew.edit("`Tapi Bo'ong`")
+    sleep(1)
+    await typew.edit("`Eh Engga Deh`")
+    sleep(1)
+    await typew.edit("`Aku Sayang Sama Kamu, Love You💕`")
+
 # Create by myself @localheart
 
 CMD_HELP.update({
